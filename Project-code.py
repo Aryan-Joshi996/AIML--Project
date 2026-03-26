@@ -1,4 +1,4 @@
-""
+"""
 Student Grade Analyzer
 A CLI tool to analyze student grades using Python data structures.
 """
